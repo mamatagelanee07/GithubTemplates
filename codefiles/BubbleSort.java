@@ -24,6 +24,7 @@ public class BubbleSort {
     }
   
     private static void printNumbers(int[] input) {  
+        System.out.println("....Added one more log message before sort starts....");
         for (int i = 0; i < input.length; i++) {
             System.out.print(input[i] + ", ");
         }
