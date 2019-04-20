@@ -17,11 +17,13 @@ Please delete options that are not relevant.
 - [ ] Refactoring (If you are refactoring existing code)
 
 ## Screenshots
+You can add images/GIFs/Video upto 10 mb here to just let your reviwer go through changes you made user perspactive.
+
 Before | After
 ---|---
 <image1> | <image2>
-
-You can use giffy scripts to create GIFs from mp4 files to upload here. Github only accepts files upto 10 mb. Be careful while converting large video file. If it takes more than acceptable size, you can reduce the resolution of video. Please check here for more information (ADD A LINK HERE). 
+  
+You can use giffy scripts to create GIFs from mp4 files to upload here. Github only accepts files upto 10 mb. Be careful while converting large video file, If it takes more than acceptable size, you can reduce the resolution of video. Please check here for more information (ADD A LINK HERE).
   
 ## Events
 If you are using analytics, You can add events you are implementing for features here.
